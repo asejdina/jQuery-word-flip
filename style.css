@@ -1,0 +1,5 @@
+.gradient {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(to bottom right, blue, deepskyblue);
+}
